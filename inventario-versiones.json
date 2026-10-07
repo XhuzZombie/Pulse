@@ -1,0 +1,289 @@
+[
+  {
+    "version": "0.34.0",
+    "exe": true,
+    "pack": true,
+    "scripts": 124,
+    "estado": "Ejecutable y paquete guardados; falta validar la distribución completa"
+  },
+  {
+    "version": "0.33.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 120,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.32.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 120,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.31.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 118,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.30.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 116,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.29.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 115,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.28.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 113,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.27.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 111,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.26.1",
+    "exe": false,
+    "pack": false,
+    "scripts": 108,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.26.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 3,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.25.1",
+    "exe": false,
+    "pack": true,
+    "scripts": 137,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.25.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 136,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.24.1",
+    "exe": false,
+    "pack": true,
+    "scripts": 131,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.24.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 130,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.23.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 123,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.22.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 116,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.21.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 113,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.20.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 110,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.19.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 103,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.18.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 93,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.17.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 89,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.16.3",
+    "exe": false,
+    "pack": false,
+    "scripts": 83,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.16.2",
+    "exe": false,
+    "pack": false,
+    "scripts": 82,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.16.1",
+    "exe": false,
+    "pack": false,
+    "scripts": 81,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.16.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 59,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.15.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 54,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.14.0",
+    "exe": false,
+    "pack": false,
+    "scripts": 53,
+    "estado": "Copia de código y archivos; no es una descarga ejecutable completa"
+  },
+  {
+    "version": "0.13.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 48,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.12.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 47,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.11.0",
+    "exe": true,
+    "pack": true,
+    "scripts": 40,
+    "estado": "Ejecutable y paquete guardados; falta validar la distribución completa"
+  },
+  {
+    "version": "0.10.0",
+    "exe": true,
+    "pack": true,
+    "scripts": 39,
+    "estado": "Ejecutable y paquete guardados; falta validar la distribución completa"
+  },
+  {
+    "version": "0.9.1",
+    "exe": false,
+    "pack": true,
+    "scripts": 45,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.9.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 44,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.8.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 41,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.7.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 37,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.6.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 34,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.5.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 28,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.4.0",
+    "exe": false,
+    "pack": true,
+    "scripts": 24,
+    "estado": "Paquete del juego y copia de archivos; falta reconstruir y validar"
+  },
+  {
+    "version": "0.3.0",
+    "exe": true,
+    "pack": true,
+    "scripts": 17,
+    "estado": "Ejecutable y paquete guardados; falta validar la distribución completa"
+  },
+  {
+    "version": "0.2.0",
+    "exe": true,
+    "pack": true,
+    "scripts": 16,
+    "estado": "Ejecutable y paquete guardados; falta validar la distribución completa"
+  },
+  {
+    "version": "0.1.0",
+    "exe": true,
+    "pack": true,
+    "scripts": 10,
+    "estado": "Ejecutable y paquete guardados; falta validar la distribución completa"
+  }
+]
