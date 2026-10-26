@@ -12,7 +12,7 @@ La descarga se puede cancelar. Una descarga completa muestra **Instalar al cerra
 
 ## Qué se conserva
 
-El paquete de actualización solo contiene el programa, sus recursos incluidos y las guías/licencias. No contiene ni reemplaza `data`, tus canciones, niveles, skins personales, ajustes, biblioteca, puntuaciones o `override.cfg`.
+El paquete de actualización solo contiene el programa, sus recursos incluidos y las guías/licencias. No contiene ni reemplaza `data`, tus canciones, niveles, skins personales, ajustes, biblioteca, puntuaciones, grabaciones de VS U, ejercicios guardados del entrenador o `override.cfg`.
 
 Antes de instalar se comprueban el tamaño, SHA-256 y una firma de Pulse. El instalador vuelve a verificar la firma y cada archivo, rechaza rutas ajenas al programa y espera a que el juego termine. Guarda una copia de recuperación en `.pulse-update`, dentro de la instalación. Si una sustitución falla, restaura los archivos anteriores; un cierre inesperado durante la sustitución se recupera al abrir Pulse. Si el primer inicio no llega a cargar el menú, el siguiente intenta recuperar la versión anterior.
 

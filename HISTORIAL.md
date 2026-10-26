@@ -2,6 +2,47 @@
 
 Notas recuperadas de la documentación del proyecto. Algunas versiones antiguas solo se conservan parcialmente; consulta [el archivo](ARCHIVO.md).
 
+## 0.37.0
+
+- **VS U**: compite contra tus propias partidas anteriores en la barra de nota. Tu avance es morado y el de tus anteriores intentos rojo; la barra adopta el color de quien vaya por delante en ese momento. Solo se comparan partidas compatibles del mismo mapa, velocidad y modificadores.
+- **Práctica → Extra**: ejercicios sin canción de coordinación, resistencia, lectura progresiva, velocidad, reacción, ritmo, mezcla y combinaciones complicadas, con dificultad progresiva.
+- **Práctica → IA**: entrenador local que analiza tus resultados, explica las dificultades detectadas y propone ejercicios específicos. No necesita conexión ni servicios externos. Si faltan datos, lo indica.
+- Las propuestas del entrenador se renuevan semanalmente con aviso. **Los ejercicios guardados se conservan**. Metrónomo opcional para practicar.
+- Esta publicación incluye las mejoras locales de Obsidian Resonance de 0.36.1 a 0.36.5: mundo de líquido negro, agujero negro y rayos animados, materiales minerales y correcciones de biblioteca/editor.
+
+Las partidas se empiezan a registrar para VS U a partir de esta versión. Los récords anteriores se conservan, pero no se convierten en repeticiones inventadas. Los ejercicios de entrenamiento no alteran tus récords competitivos.
+
+## 0.36.5 (desarrollo local; cambios incluidos en 0.37.0)
+- Retirado el fondo ilustrado antiguo de Obsidian. El mundo de líquido negro se usa también en Ajustes y como fondo predeterminado de las partidas, respetando el fondo propio de cada canción.
+- El disco solo muestra su mitad delantera y enlaza con el arco curvo; gas irregular, reflejos cálidos en botones y cartas, rayos sin cuñas en sus curvas y placas mayores en Mis niveles.
+- Detalle del mundo independiente (Ligero, Equilibrado y Completo) en Ajustes > Interfaz, con animación de botones conservada. Texto secundario más legible y selección mineral de las canciones.
+- Corregidos los clics en zonas vacías del menú, el contador de modificadores al filtrar, los niveles dañados con Adecuado para mí y la pérdida de acceso a archivos compartidos tras sustituir el audio de un nivel importado.
+
+## 0.36.4 (desarrollo local; cambios incluidos en 0.37.0)
+- El disco del agujero negro enlaza con el arco mediante una curva continua y suave. El gas, sus filamentos y su halo tienen tonos naranjas cálidos, conservados al personalizar la skin.
+- Rayos con centro oscuro, corona mucho más visible, ramificaciones de brillo variable y un impacto que ilumina las crestas del líquido. La animación y el reflejo se calculan en la GPU con una geometría por descarga.
+- Botones pulidos: ondas finas en el aro líquido de Jugar, vetas y grabados en las placas de Mis niveles, reflejos que recorren las facetas de Ajustes y respuesta de sus caras al cursor. Se conservan las tres formas y sus títulos.
+
+## 0.36.3 (desarrollo local; cambios incluidos en 0.37.0)
+- Agujero negro casi tres veces mayor: se pierde detrás del horizonte y del borde derecho. El disco inclinado muestra su curvatura y el gas fluye en filamentos a distintas velocidades orbitales.
+- Nuevo horizonte curvo, con un borde líquido y capas de bruma. El oleaje conserva los reflejos del cielo y de los rayos.
+- Todos los rayos entran desde el borde superior, son mayores y extienden sus ramas de forma progresiva, con variaciones de brillo. El impacto y su reflejo aparecen cuando el rayo alcanza el líquido.
+- Ajustes tiene una pieza de obsidiana facetada con detalles móviles propios. Jugar conserva su aro líquido.
+
+## 0.36.2 (desarrollo local; cambios incluidos en 0.37.0)
+- Obsidian: agujero negro con arco luminoso curvado, disco visto de canto y filamentos animados inspirados en las nuevas referencias.
+- El mar negro tiene oleaje en varias direcciones y un reflejo que se deforma con las olas. Los laterales rocosos se sustituyen por una superficie líquida continua con remolinos suaves.
+- Rayos de núcleo oscuro con ramificaciones y distancias variables, reflejados en el agua y con iluminación localizada en cada impacto. Respetan los ajustes de efectos, movimiento, partículas e iluminación.
+- Los botones conservan sus formas principales, con aros líquidos continuos, biseles y reflejos más suaves; se retiran sus subtítulos y fragmentos que sobresalían.
+- La biblioteca y Mis niveles comparten la misma escena animada del menú, sin el fondo ilustrado anterior. Las demás skins conservan su diseño.
+
+## 0.36.1 (desarrollo local; cambios incluidos en 0.37.0)
+- Menú de Obsidian Resonance: planeta oscuro con costas de obsidiana, mar de líquido negro y un agujero negro lejano. La escena se dibuja en tiempo real, sin ilustraciones de fondo.
+- Se retiran las imágenes antiguas que se superponían a los botones líquidos y minerales del menú.
+- Los consejos tienen su propia línea encima de la tarjeta de habilidad, sin superponerse con otros textos.
+- Numeración: los cambios pequeños avanzan 0.36.1, 0.36.2...; una actualización grande pasa a 0.37.0.
+- El resto de pantallas y skins conserva su diseño. No hubo una descarga pública independiente de esta versión.
+
 ## 0.35.0
 
 - La versión instalada aparece siempre abajo a la izquierda, en todas las pantallas y skins.

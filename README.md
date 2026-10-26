@@ -2,6 +2,10 @@
 
 Juego de ritmo para **Windows**: música, aros, distintos modos de teclas, editor de niveles y skins con su propia personalidad.
 
+## 0.37.0: juega contra tus marcas y entrena
+
+VS U añade un fantasma personal de puntuación. Práctica incorpora Extra e IA para entrenar habilidades concretas y tus dificultades detectadas. Los ejercicios guardados se conservan; las propuestas no guardadas se renuevan cada semana. [Novedades de 0.37.0](NOTAS-0.37.0.md).
+
 ## Descargar
 
 **[Descargar Pulse para Windows](https://github.com/XhuzZombie/Pulse/releases/latest/download/Pulse-Windows.zip)** · [Todas las versiones](https://github.com/XhuzZombie/Pulse/releases)
