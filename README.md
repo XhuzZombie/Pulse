@@ -2,6 +2,10 @@
 
 Juego de ritmo para **Windows**: música, aros, distintos modos de teclas, editor de niveles y skins con su propia personalidad.
 
+## 0.37.1 · Disrupters y modificadores
+
+Los Disrupters ocultan partes del aro con alas articuladas. El selector usa los materiales de cada skin y sus filas se desvanecen en los bordes al desplazarte. [Novedades de 0.37.1](NOTAS-0.37.1.md).
+
 ## 0.37.0: juega contra tus marcas y entrena
 
 VS U añade un fantasma personal de puntuación. Práctica incorpora Extra e IA para entrenar habilidades concretas y tus dificultades detectadas. Los ejercicios guardados se conservan; las propuestas no guardadas se renuevan cada semana. [Novedades de 0.37.0](NOTAS-0.37.0.md).
